@@ -3,7 +3,7 @@
 
 # Usage
 <Main>
-![1](https://user-images.githubusercontent.com/38063224/83151651-ce061600-a137-11ea-8993-05a829c02fd3.jpg)
+![1](https://user-images.githubusercontent.com/38063224/83153105-87b1b680-a139-11ea-97fb-ae7b5f065ca6.jpg)
   
 <Sample Word Report>
 ![2](https://user-images.githubusercontent.com/38063224/83151663-d2323380-a137-11ea-99dc-566383fb7ab8.jpg)
